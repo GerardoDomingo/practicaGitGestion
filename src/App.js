@@ -21,5 +21,5 @@ function App() {
     </div>
   );
 }
-
+/*Aqui iría la sección para editar tareas*/
 export default App;
